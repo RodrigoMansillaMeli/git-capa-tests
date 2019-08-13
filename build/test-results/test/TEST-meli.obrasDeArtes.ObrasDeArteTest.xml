@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="meli.obrasDeArtes.ObrasDeArteTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-13T14:20:52" hostname="AR0FVFYM1DJHV2J" time="0.017">
+  <properties/>
+  <testcase name="listarLasObrasDeArteYVerificarQueCadaUnaIndiqueDeQueTipoEs" classname="meli.obrasDeArtes.ObrasDeArteTest" time="0.017"/>
+  <system-out><![CDATA[El autor se llama Pintulski y creó la pintura Pinturita con dimensiones 2x2
+El autor se llama Esculturuski y creó la escultura Esculturita con dimensiones 4x4
+El autor se llama Grabaduski y creó el grabado Grabadito con dimensiones 5x5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

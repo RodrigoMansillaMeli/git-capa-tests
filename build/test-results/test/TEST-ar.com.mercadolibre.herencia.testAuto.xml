@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ar.com.mercadolibre.herencia.testAuto" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-13T14:20:52" hostname="AR0FVFYM1DJHV2J" time="0.002">
+  <properties/>
+  <testcase name="probarAutoBMW" classname="ar.com.mercadolibre.herencia.testAuto" time="0.001"/>
+  <testcase name="probarAutoToyota" classname="ar.com.mercadolibre.herencia.testAuto" time="0.0"/>
+  <system-out><![CDATA[El auto esta encendido
+Acabas de viajar a 100 kilometros por hora
+El auto esta apagado
+El auto esta encendido
+Toyota
+El auto esta apagado
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

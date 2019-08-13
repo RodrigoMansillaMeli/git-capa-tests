@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="meli.cuentas.BancoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-13T14:20:52" hostname="AR0FVFYM1DJHV2J" time="0.032">
+  <properties/>
+  <testcase name="crearBancoConCuatroCuentasBancariasYCuentoLaCantidadNegativas" classname="meli.cuentas.BancoTest" time="0.032"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
