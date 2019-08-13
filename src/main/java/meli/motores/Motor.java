@@ -1,16 +1,16 @@
 package meli.motores;
 
 public class Motor {
-    int potencia;
+    int potencia2;
     int temperatura;
 
     public void aumentarPotencia(int potencia) {
-        if(this.potencia + potencia > 10) {
-            this.potencia = 10;
-            this.temperatura = this.potencia * 10;
+        if(this.potencia2 + potencia > 10) {
+            this.potencia2 = 10;
+            this.temperatura = this.potencia2 * 10;
         } else {
-            this.potencia += potencia;
-            this.temperatura = this.potencia * 10;
+            this.potencia2 += potencia;
+            this.temperatura = this.potencia2 * 10;
         }
     }
 }
